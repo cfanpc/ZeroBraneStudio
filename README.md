@@ -1,8 +1,7 @@
-# Project Description
+# 项目描述
 
-[ZeroBrane Studio](http://studio.zerobrane.com/) is a lightweight cross-platform Lua IDE with code completion,
-syntax highlighting, remote debugger, code analyzer, live coding,
-and debugging support for various Lua engines
+[ZeroBrane Studio](http://studio.zerobrane.com/) 是一个轻量级的跨平台LUA IDE，代码完成,语法高亮显示、远程调试器、代码分析器、实况编码
+各种LUA引擎的调试支持
 ([Lua 5.1](http://studio.zerobrane.com/doc-lua-debugging),
 [Lua 5.2](http://studio.zerobrane.com/doc-lua52-debugging),
 [Lua 5.3](http://studio.zerobrane.com/doc-lua53-debugging),
@@ -25,11 +24,11 @@ and others).
 
 ![ZeroBrane Studio debugger screenshot](http://studio.zerobrane.com/images/debugging.png)
 
-## Features
+## 特点
 
-* Small, portable, and **cross-platform** (Windows, macOS, and Linux).
-* Written in Lua and is extensible with Lua packages.
-* **Syntax highlighting** and folding for 110+ languages and file formats.
+* 小型、便携式和 **跨平台**（Windows、Mac OS和Linux）。
+* 写在Lua，是可扩展的LUA包。
+* **语法突出显示110个语言和文件格式的**。
 * **Project view** with auto-refresh and ability to hide files and directories from the list.
 * Bundled with several of **the most popular Lua modules**
 ([luasocket](https://github.com/diegonehab/luasocket),
